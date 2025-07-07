@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="80" height="80">
+
+<g transform="matrix(0.8000001 0 0 0.8000001 0 0)">
+	<g>
+		<g>
+            <path d="M12.804 18.692L85.364 18.692L85.364 61.461L12.804 61.461z" stroke="none" fill="#39B6CC" fill-rule="nonzero" />
+            <path d="M86.723 62.819L11.445 62.819L11.445 17.333L86.722 17.333L86.722 62.819L86.723 62.819zM14.162 60.102L84.005005 60.102L84.005005 20.051L14.162 20.051L14.162 60.102z" stroke="none" fill="#000000" fill-rule="nonzero" />
+		</g>
+		<g>
+            <path d="M18.84 24.473L79.699005 24.473L79.699005 61.461L18.84 61.461z" stroke="none" fill="#F2F2F2" fill-rule="nonzero" />
+            <path d="M81.058 62.819L17.48 62.819L17.48 23.114L81.057 23.114L81.057 62.819L81.058 62.819zM20.198 60.102L78.34 60.102L78.34 25.831L20.198 25.831L20.198 60.102z" stroke="none" fill="#000000" fill-rule="nonzero" />
+		</g>
+		<g>
+            <path d="M9.207 61.46L89.139 61.46L89.139 71.545L9.207 71.545z" stroke="none" fill="#39B6CC" fill-rule="nonzero" />
+            <path d="M90.497 72.904L7.849 72.904L7.849 60.102L90.497 60.102L90.497 72.904zM10.565 70.187L87.78 70.187L87.78 62.818996L10.565 62.818996L10.565 70.187z" stroke="none" fill="#000000" fill-rule="nonzero" />
+		</g>
+		<g>
+            <path d="M38.831 65.142L59.510002 65.142L59.510002 67.859L38.831 67.859z" stroke="none" fill="#F2F2F2" fill-rule="nonzero" />
+		</g>
+		<g>
+            <path d="M50.878 32.413L90.793 32.413L90.793 81.309L50.878 81.309z" stroke="none" fill="#39B6CC" fill-rule="nonzero" />
+            <path d="M92.151 82.667L49.519 82.667L49.519 31.054L92.152 31.054L92.152 82.667L92.151 82.667zM52.236 79.95L89.434006 79.95L89.434006 33.771L52.236 33.771L52.236 79.95z" stroke="none" fill="#000000" fill-rule="nonzero" />
+		</g>
+		<g>
+            <path d="M56.384 38.742L83.925995 38.742L83.925995 75.321L56.384 75.321z" stroke="none" fill="#F2F2F2" fill-rule="nonzero" />
+            <path d="M85.284 76.679L55.025 76.679L55.025 37.383L85.284004 37.383L85.284004 76.679L85.284 76.679zM57.742 73.962L82.567 73.962L82.567 40.1L57.742 40.1L57.742 73.962z" stroke="none" fill="#000000" fill-rule="nonzero" />
+		</g>
+		<g>
+            <path d="M27.083 45.845L43.909 45.845L43.909 55.262L27.083 55.262z" stroke="none" fill="#FF7C24" fill-rule="nonzero" />
+		</g>
+		<g>
+            <path d="M63.146 44.659L78.329 44.659L78.329 47.376L63.146 47.376z" stroke="none" fill="#000000" fill-rule="nonzero" />
+		</g>
+		<g>
+            <path d="M63.098 50.94L73.245 50.94L73.245 53.656998L63.098 53.656998z" stroke="none" fill="#000000" fill-rule="nonzero" />
+		</g>
+		<g>
+            <path d="M63.098 58.709L78.026 58.709L78.026 67.606L63.098 67.606z" stroke="none" fill="#FF7C24" fill-rule="nonzero" />
+		</g>
+		<g>
+            <path d="M75.577 50.94L78.328 50.94L78.328 53.656998L75.577 53.656998z" stroke="none" fill="#000000" fill-rule="nonzero" />
+		</g>
+		<g>
+            <path d="M63.146 44.659L78.329 44.659L78.329 47.376L63.146 47.376z" stroke="none" fill="#000000" fill-rule="nonzero" />
+		</g>
+		<g>
+            <path d="M63.098 50.94L73.24 50.94L73.24 53.656998L63.098 53.656998z" stroke="none" fill="#000000" fill-rule="nonzero" />
+		</g>
+		<g>
+            <path d="M75.577 50.94L78.328 50.94L78.328 53.656998L75.577 53.656998z" stroke="none" fill="#000000" fill-rule="nonzero" />
+		</g>
+		<g>
+            <path d="M27.13 31.751L43.847 31.751L43.847 34.468L27.13 34.468z" stroke="none" fill="#000000" fill-rule="nonzero" />
+		</g>
+		<g>
+            <path d="M27.083 38.032L38.249 38.032L38.249 40.749L27.083 40.749z" stroke="none" fill="#000000" fill-rule="nonzero" />
+		</g>
+		<g>
+            <path d="M41.097 38.032L43.847 38.032L43.847 40.749L41.097 40.749z" stroke="none" fill="#000000" fill-rule="nonzero" />
+		</g>
+	</g>
+</g>
+</svg>
